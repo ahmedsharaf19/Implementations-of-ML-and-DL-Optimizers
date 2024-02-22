@@ -1,2 +1,3 @@
-# Implementations-of-ML-and-DL-Optimizers
- Implementations-of-ML-and-DL-Optimizers
+# Mathematics-for-Artificial-Intelligence
+
+Implementations of ML and DL Optimizers
