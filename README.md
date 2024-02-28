@@ -30,14 +30,4 @@ Each optimization algorithm is implemented as a separate module. You can find th
 
 To use any of the optimization algorithms, simply import the corresponding module and call the optimization function with appropriate parameters.
 
-Example (using SGD):
 
-```python
-from sgd import stochastic_gradient_descent
-
-# Define your loss function and model parameters
-# Define your dataset
-# Define your learning rate, epochs, etc.
-
-# Call the SGD function
-trained_params = stochastic_gradient_descent(dataset, initial_params, learning_rate, epochs)
